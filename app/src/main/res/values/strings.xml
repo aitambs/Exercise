@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_activity_movie_list">MovieListActivity</string>
+    <string name="movie_exists">Current movie already exists in the Database</string>
+    <string name="movie_added">Movie Added</string>
+    <string name="welcome_to_movies">WELCOME TO MOVIES!</string>
+</resources>
